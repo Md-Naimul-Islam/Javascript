@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>While loop</title>
+</head>
+<body>
+    <script>
+        var i = 0;
+        while(i<6)
+        {
+            document.write("1st part");
+            document.write(i);
+            i++;
+            document.write("<br>");
+            var j=3;
+            while(j<9)
+            {
+                document.write("2nd part");
+                document.write(j);
+                j++;
+                document.write("<br>")
+            }
+        }
+        document.write("End of code")
+    </script>
+</body>
+</html>
