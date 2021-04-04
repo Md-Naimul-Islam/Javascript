@@ -15,7 +15,7 @@
             var j=3;
             while(j<9)
             {
-                document.write("2nd part");
+                document.write("22nd part");
                 document.write(j);
                 j++;
                 document.write("<br>")
